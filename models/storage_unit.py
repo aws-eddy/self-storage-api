@@ -6,3 +6,5 @@ class StorageUnit(BaseModel):
     price: float
     unit_number: int
     location: str
+    id: str
+    created_at: str
